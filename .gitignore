@@ -29,3 +29,5 @@ wrestCenterDAO/.settings/org.eclipse.m2e.core.prefs
 wrestCenterDAO/target/classes/META-INF/MANIFEST.MF
 wrestCenterDAO/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst
 wrestCenterDAO/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst
+wrestCenterDAO/target/classes/META-INF/maven/fr.wrestling.center/wrestCenterDAO/pom.properties
+wrestCenterDAO/target/classes/META-INF/maven/fr.wrestling.center/wrestCenterDAO/pom.properties
