@@ -1,6 +1,6 @@
-package fr.wrestling.center.entity;
+package fr.wrestling.center.entity.utilisateur;
 
-import java.sql.Date;
+import java.util.Date;
 
 import javax.persistence.Column;
 import javax.persistence.Entity;
@@ -19,7 +19,7 @@ import javax.persistence.Table;
 public class Utilisateur {
 	
 	@Id
-	@GeneratedValue(strategy = GenerationType.SEQUENCE)
+	@GeneratedValue(strategy = GenerationType.IDENTITY)
 	private Long id;
 	
 	@Column(name = "login")
@@ -77,8 +77,8 @@ public class Utilisateur {
 		return dateCreation;
 	}
 
-	public void setDateCreation(Date dateCreation) {
-		this.dateCreation = dateCreation;
+	public void setDateCreation(Date date) {
+		this.dateCreation = date;
 	}
 
 	public Date getDerniereConnexion() {
