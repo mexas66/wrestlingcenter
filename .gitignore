@@ -29,3 +29,4 @@ wrestCenterDAO/target/test-classes/META-INF/persistence.xml
 wrestCenterDAO/.settings/org.eclipse.wst.common.project.facet.core.prefs.xml
 wrestCenterDAO/.settings/org.eclipse.wst.common.project.facet.core.xml
 wrestCenterDAO/.settings/org.eclipse.jpt.core.prefs
+wrestCenterDAO/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst
