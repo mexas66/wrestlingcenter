@@ -30,3 +30,8 @@ wrestCenterDAO/target/*
 wrestCenterDAO/.settings/*
 wrestCenterDomain/.settings/*
 wrestCenterService/.settings/*
+wrestCenterWeb/.browserslistrc
+wrestCenterWeb/.editorconfig
+wrestCenterWeb/angular.json
+wrestCenterWeb/karma.conf.js
+wrestCenterWeb/.vscode*
